@@ -15,7 +15,6 @@ const Select = styled.select`
         background-color: #D9E2EFB8;
     }
 `;
-
 function TitledSelector({title, options}) {
     const Title = title === undefined ? 
         (<div></div>) : 
