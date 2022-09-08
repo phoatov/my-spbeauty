@@ -25,7 +25,6 @@ function PrimaryButton(props) {
                 {props.children}
             </Button>
         </Clickable>
-        
     );
 }
 
